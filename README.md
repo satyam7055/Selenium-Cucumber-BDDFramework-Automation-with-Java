@@ -3,14 +3,16 @@ Cucumber BDD Selenium Framework
 What all tools are used in this project?
 
 Cucumber
-TestNG
-Maven
-Page Object Model design pattern
-Extent Report
-Cucumber Reporting (custom)
-Packages Hierarchy - Main package: Utils --> DriverManager = contains driver initialization and other commonly used functions
 
-Pages --> Page classes - Contains locators and getter/setters for each webpage
+TestNG
+
+Maven
+
+Page Object Model design pattern
+
+Extent Report
+
+Cucumber Reporting (custom)
 
 Test package:
 
